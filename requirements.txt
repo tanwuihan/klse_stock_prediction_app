@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+firebase-admin
+prophet
+xgboost
+tensorflow
+scikit-learn
+pyrebase4

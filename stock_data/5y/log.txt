@@ -1,0 +1,7 @@
+✅ AIRPORT.KL data fetched successfully
+✅ AXIATA.KL data fetched successfully
+✅ CIMB.KL data fetched successfully
+✅ DIGI.KL data fetched successfully
+✅ MAYBANK.KL data fetched successfully
+✅ PETGAS.KL data fetched successfully
+✅ TENAGA.KL data fetched successfully
